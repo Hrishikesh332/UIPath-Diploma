@@ -62,7 +62,7 @@ Learners may simply and rapidly catch up with the most recent developments in ro
 Clone the project
 
 ```bash
-  git clone https://github.com/Hrishikesh332/OpenCode.git
+  git clone https://github.com/Hrishikesh332/UIPath-Diploma.git
 ```
 
 ⚙️ Downloading UIPath is necessary to run project files 
