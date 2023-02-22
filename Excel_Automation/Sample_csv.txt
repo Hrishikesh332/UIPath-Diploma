@@ -1,0 +1,6 @@
+Name,	Rollno,	Subject,	Branch,	Year,	Location,	House
+Hrishikesh,	59,	AT,	IT,	TE,	Mumbai,	Red
+Dev,	65,	DMBI,	IT,	TE,	Delhi,	Green
+Raj,	67,	AT,	COMPS,	TE,	Delhi,Blue
+Ravi,	32,	MATHS,	COMPS,	SE,	Mumbai,	Red
+
